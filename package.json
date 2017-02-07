@@ -3,12 +3,12 @@
   "description": "A webapp for the Pathway Commons Guide pathway enrichment workflow",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jvwong/pc-app-scaffold.git"
+    "url": "https://github.com/jvwong/emapp.git"
   },
   "bugs": {
-    "url": "https://github.com/jvwong/pc-app-scaffold/issues"
+    "url": "https://github.com/jvwong/emapp/issues"
   },
-  "homepage": "https://github.com/jvwong/pc-app-scaffold",
+  "homepage": "https://github.com/jvwong/emapp",
   "scripts": {
     "start": "gulp build && forever start ./src/server",
     "stop": "forever stop ./src/server",
